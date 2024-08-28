@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+bs4
+lxml
+requests
+openpyxl
+ipykernel
+selenium
